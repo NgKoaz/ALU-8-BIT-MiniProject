@@ -1,0 +1,9 @@
+Hello World
+time = 1000: a = 0, b = 0, c_in = 0, sum = 0, c_out = 0
+time = 11000: a = 0, b = 0, c_in = 1, sum = 1, c_out = 0
+time = 22000: a = 0, b = 1, c_in = 0, sum = 1, c_out = 0
+time = 33000: a = 0, b = 1, c_in = 1, sum = 0, c_out = 1
+time = 44000: a = 1, b = 0, c_in = 0, sum = 1, c_out = 0
+time = 55000: a = 1, b = 0, c_in = 1, sum = 0, c_out = 1
+time = 66000: a = 1, b = 1, c_in = 0, sum = 0, c_out = 1
+time = 77000: a = 1, b = 1, c_in = 1, sum = 1, c_out = 1
